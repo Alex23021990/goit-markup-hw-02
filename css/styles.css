@@ -29,7 +29,6 @@ color: var(--slate);
 }
 
 /**-------------HEADER-------------*/
-
 .logo-web {
     font-family: 'Raleway', sans-serif;
 font-style: normal;
@@ -37,7 +36,7 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.17em;
 letter-spacing: 0.03em;
-text-transform: capitalize;
+text-transform: uppercase;
 color: var(--iris);
 }
 
@@ -48,7 +47,7 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.17em;
 letter-spacing: 0.03em;
-text-transform: capitalize;
+text-transform: uppercase;
 color: var(--navy-blue);
 }
 
@@ -182,6 +181,7 @@ color: var(--slate);
 line-height: 1.2em;
 letter-spacing: 0.02em;
 color: var(--navy-blue);
+text-transform: capitalize;
 }
 
 .card {
@@ -198,6 +198,7 @@ font-style: normal;
 font-weight: 700;
 line-height: 1.11em;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 }
 .link-team-card {
     font-weight: 500;
@@ -214,7 +215,7 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
-text-transform: capitalize;
+text-transform: uppercase;
 color: var(--cloud);
 }
 .description-footer {
